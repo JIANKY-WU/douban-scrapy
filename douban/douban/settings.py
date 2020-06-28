@@ -10,8 +10,8 @@
 #     https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 
 BOT_NAME = 'douban'
-USERNAME='13138703496'
-PASSWORD='714823812word'
+USERNAME='*****'#账号
+PASSWORD='*****'#密码
 COOKIES=''
 SPIDER_MODULES = ['douban.spiders']
 NEWSPIDER_MODULE = 'douban.spiders'
